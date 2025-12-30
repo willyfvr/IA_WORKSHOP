@@ -22,4 +22,21 @@ Vamos a utilizar modelos de lenguaje:
 
 ## ¿Qué es un modelo de lenguaje y como genera sus respuestas?
 
+**Modelo de Lenguaje:** Es un programa, en el cual se ingresa un dato textual, lo tranforma y genera otro
+dato textual como respuesta.
 
+### ¿Cómo funciona ese transformador de texto?
+
+- Intenta "adivinar", según la palabra que ingresaste (prompt), cuál palabra viene después. (predice por probabilidad).
+
+
+## ¿Qué es el prompt?
+
+- El **prompt** es LA INSTRUCCIÓN QUE LE DAMOS AL MODELO.
+
+
+# Recursos
+
+- [Tecnocenolab](https://tecnocenolab.ar/)
+
+- [Constructor de prompts](https://deft-buttercream-611ca3.netlify.app/)
