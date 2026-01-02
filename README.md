@@ -2,7 +2,12 @@
 
 Presented By [ATE VIRTUAL](https://www.atevirtual.org/course/view.php?id=315) 
 
-DAY 1:
+==========================================================
+// **Día 1**
+
+## PROMPTS EFECTIVOS
+
+[Enlace al video](https://www.youtube.com/watch?v=FHbXtguLN6U&t=2319s)
 
 En este curso vamos a trabajar con IA Generativa (Generación de texto).
 
@@ -40,3 +45,17 @@ dato textual como respuesta.
 - [Tecnocenolab](https://tecnocenolab.ar/)
 
 - [Constructor de prompts](https://deft-buttercream-611ca3.netlify.app/)
+
+
+==========================================================
+
+// **Día 2**
+
+
+## ASISTENTES PERSONALIZADOS
+
+[Enlace al video](https://www.youtube.com/watch?v=-VYsG_RA7SE&t=906s)
+
+_En este taller vamos a usar [Gemini](https://gemini.google.com/) en esta sección, ya que se puede usar esta función en su versión gratuita (a la fecha ENE 2026)_
+
+Esta herramienta es muy útil para tareas repetitivas, donde hay que realizar siempre las mismas acciones sobre documentos o consultas (aplicar el mismo prompt). 
