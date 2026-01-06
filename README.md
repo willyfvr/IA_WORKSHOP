@@ -3,7 +3,7 @@
 Presented By [ATE VIRTUAL](https://www.atevirtual.org/course/view.php?id=315) 
 
 ==========================================================
-// **Día 1**
+// **Parte 1**
 
 ## PROMPTS EFECTIVOS
 
@@ -49,7 +49,7 @@ dato textual como respuesta.
 
 ==========================================================
 
-// **Día 2**
+// **Parte 2**
 
 
 ## ASISTENTES PERSONALIZADOS
@@ -59,3 +59,24 @@ dato textual como respuesta.
 _En este taller vamos a usar [Gemini](https://gemini.google.com/) en esta sección, ya que se puede usar esta función en su versión gratuita (a la fecha ENE 2026)_
 
 Esta herramienta es muy útil para tareas repetitivas, donde hay que realizar siempre las mismas acciones sobre documentos o consultas (aplicar el mismo prompt). 
+
+
+==========================================================
+
+// **Parte 3**
+
+
+## AI TUTOR (Tutor de Inteligencia Artificial)
+
+### Herramienta -> Aprendizaje Guiado
+
+# [Gemini](https://gemini.google.com/)
+![Gemini aprendizaje guiado](resources/img/gemini-aprendizaje-guiado.png)
+
+# [Chat GPT](https://chatgpt.com/)
+
+![chatgpt aprendizaje guiado](resources/img/chat-gpt-aprendizaje-guiado.png)
+
+
+[Enlace al video](https://youtu.be/WsT7e_sebok)
+
