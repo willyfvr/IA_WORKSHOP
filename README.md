@@ -3,10 +3,9 @@
 Presented By [ATE VIRTUAL](https://www.atevirtual.org/course/view.php?id=315) 
 
 ==========================================================
-// **Parte 1**
+# <span style="font-family: 'Georgia', serif;"> _**Parte 1**_  </span>
 
 ## PROMPTS EFECTIVOS
-
 [Enlace al video](https://www.youtube.com/watch?v=FHbXtguLN6U&t=2319s)
 
 En este curso vamos a trabajar con IA Generativa (Generación de texto).
@@ -49,12 +48,11 @@ dato textual como respuesta.
 
 ==========================================================
 
-// **Parte 2**
-
+# <span style="font-family: 'Georgia', serif;"> _**Parte 2**_ </pan>
 
 ## ASISTENTES PERSONALIZADOS
-
 [Enlace al video](https://www.youtube.com/watch?v=-VYsG_RA7SE&t=906s)
+
 
 _En este taller vamos a usar [Gemini](https://gemini.google.com/) en esta sección, ya que se puede usar esta función en su versión gratuita (a la fecha ENE 2026)_
 
@@ -63,10 +61,10 @@ Esta herramienta es muy útil para tareas repetitivas, donde hay que realizar si
 
 ==========================================================
 
-// **Parte 3**
-
+# <span style="font-family: 'Georgia', serif;"> _**Parte 3**_ </span>
 
 ## AI TUTOR (Tutor de Inteligencia Artificial)
+[Enlace al video](https://youtu.be/WsT7e_sebok)
 
 ### Herramienta -> Aprendizaje Guiado
 
@@ -78,5 +76,24 @@ Esta herramienta es muy útil para tareas repetitivas, donde hay que realizar si
 ![chatgpt aprendizaje guiado](resources/img/chat-gpt-aprendizaje-guiado.png)
 
 
-[Enlace al video](https://youtu.be/WsT7e_sebok)
+
+# <span style="font-family: 'Georgia', serif;"> _**Parte 4**_ </span>
+
+## Investigación profunda con IA (Deep Research)
+[Enlace al video](https://youtu.be/bwAjSwj-sCw)
+
+# [Gemini](https://gemini.google.com/)
+![Gemini Deep Research](resources/img/gemini-deep-research.png) 
+
+- Primero Planifica.
+
+- Luego me muestra la planificación por si se quiere corregir.
+
+- Si esta bien, realiza una búsqueda autónoma y aplica su razonamiento.
+
+- Genera un informe con una estructura lógica y nos va a mostrar citas a las fuentes
+  reales desde donde obtuvo la información.
+
+
+**NOTA:** Esta búsqueda toma mucho más tiempo que una búsqueda común. Puede durar mas de 15 minutos.
 
